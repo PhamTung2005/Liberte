@@ -1,0 +1,6 @@
+framework module Pods_LiberteProject {
+  umbrella header "Pods-LiberteProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
